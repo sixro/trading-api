@@ -46,7 +46,7 @@ I'll mention all contributors in the section [Contributors](#contributors).
 <a name="contributors" />Contributors
 --------------------------------
 
-  * [Sixro](mailto:me@sixro.net)
+  * [Sixro](https://github.com/sixro/)
 
 
 <a name="credit-etc" />Credits, Inspiration, Alternatives
