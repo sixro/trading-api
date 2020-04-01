@@ -1,4 +1,4 @@
-package trading.order;
+package trading.broker.order;
 
 import org.junit.Test;
 import trading.ISIN;
@@ -19,5 +19,5 @@ public class OrderBuilderTest {
     // TODO test creation limit order
     // TODO test creation stop order
     // TODO test creation stop limit order
-    
+
 }

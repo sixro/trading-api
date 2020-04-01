@@ -1,4 +1,4 @@
-package trading.order;
+package trading.broker.order;
 
 /**
  * Represents a <a href="https://www.investopedia.com/terms/p/position.asp" >position type</a>.

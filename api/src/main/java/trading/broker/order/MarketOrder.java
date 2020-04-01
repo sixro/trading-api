@@ -1,4 +1,4 @@
-package trading.order;
+package trading.broker.order;
 
 /**
  * Represents a <a href="https://en.wikipedia.org/wiki/Order_(exchange)#Market_order" >market order</a>.
